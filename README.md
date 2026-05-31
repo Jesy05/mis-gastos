@@ -47,7 +47,7 @@ https://TU_USUARIO.github.io/mis-gastos/
 
 ## ✨ Funcionalidades
 
-- ✅ Se pone **rojo** cuando alcanzas C$ 250 en la semana actual
+- ✅ Se pone **rojo** cuando alcanzas el límite de la semana actual
 - ✅ Se pone **verde** en semanas pasadas (ya completadas)
 - ✅ Categorías: Alimentos 🍎, Transporte 🚌, Servicios 💡, Entretenimiento 🎮, Otros 📦
 - ✅ Exportar a CSV (para Excel/Google Sheets)
