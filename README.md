@@ -47,8 +47,6 @@ https://TU_USUARIO.github.io/mis-gastos/
 
 ## ✨ Funcionalidades
 
-- ✅ 5 semanas por mes, de Junio a Diciembre 2025
-- ✅ Contador de C$ 1,500 mensual que baja en tiempo real
 - ✅ Se pone **rojo** cuando alcanzas C$ 250 en la semana actual
 - ✅ Se pone **verde** en semanas pasadas (ya completadas)
 - ✅ Categorías: Alimentos 🍎, Transporte 🚌, Servicios 💡, Entretenimiento 🎮, Otros 📦
